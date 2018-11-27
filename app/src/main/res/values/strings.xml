@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Jingle Mingle</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">No Login Needed</string>
+    <string name="slide_1_desc">No Login credentials Needed to chat with other person</string>
+
+    <string name="slide_2_title">Chat with Anyone</string>
+    <string name="slide_2_desc">Chat with stranger about anything</string>
+
+    <string name="slide_3_title">Ghost Chat</string>
+    <string name="slide_3_desc">One Exit will delete your messages from your screen</string>
+
+    <string name="slide_4_title">So send your text</string>
+    <string name="slide_4_desc">What are you waiting for!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
